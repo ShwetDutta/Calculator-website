@@ -20,5 +20,6 @@ This is a simple web-based calculator that performs basic arithmetic operations 
 - Implement a dark mode feature
 - Add memory functions (M+, M-, MR)
 
-
+## Installation and usage 
+- To clone the repository: https://github.com/ShwetDutta/Calculator-website.git
 
